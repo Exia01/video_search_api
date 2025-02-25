@@ -1,3 +1,12 @@
+### Notice: This solution is ongoing migration from CRA to a vite solution as Create-react-app(CRA) is now listed as deprecated.
+&nbsp;
+## Table of contents for upgrade and migration
+&nbsp;
+-CRA to vite migration
+-Bootstrap to Tailwind CSS
+-Audit of practices, to decide on features,chores, refactors, tests, etc.
+
+
 # Design Doc for YouTube Favorites MERN Application
 &nbsp;
 
