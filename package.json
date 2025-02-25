@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/ehoversten/video_search_api/",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.7.9",
     "bcrypt": "^5.0.0",
     "concurrently": "^8.0.1",
     "cookie-parser": "^1.4.5",
